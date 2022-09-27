@@ -5,7 +5,7 @@
   "main": "rollup.config.js",
   "scripts": {
     "t": "node jsDelete.js && tsc -w",
-    "n": "nodemon dist/src/index.js"
+    "n": "nodemon dist/index.js"
   },
   "repository": {
     "type": "git",

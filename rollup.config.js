@@ -6,7 +6,7 @@ const path = require("path");
 
 const files = [
   {
-    input: "dist/src/index.js",
+    input: "dist/index.js",
     output: {
       file: "temp/index.js",
       format: "cjs",
